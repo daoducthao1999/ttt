@@ -1,0 +1,27 @@
+filter
+map
+reduce
+find
+findIndex
+splice
+
+props 
+emit
+event bue
+unex
+validator
+
+
+https://viblo.asia/p/lam-the-nao-de-truyen-du-lieu-giua-cac-component-trong-vuejs-ByEZkV9gKQ0
+https://www.google.com/settings/security/lesssecureapps
+
+-Tính trừu tượng: giảm sự phức tạp = cách ẩn các chi tiết không liên quan 
+-Tính đóng gói: chỉ đơn giản là việc kết hợp một bộ các dữ liệu và các hàm
+liên quan đến nhau sau đó gói tất cả vào trong một class
+-Tính đa hình: 
++> Nạp chồng hàm: Một class có nhiều hàm cùng tên nhưng khác nhau về số 
+lượng tham số hoặc kiểu dữ liệu của tham số
++> Ghi đè phương thức: Cùng một class có thể cho ra nhiều biến thể, không 
+phải được định nghĩa bởi lớp đó, mà bởi các lớp con của nó.
+-Tính kế thừa: Đặc tính này cho phép một đối tượng có thể có sẵn các đặc 
+tính mà đối tượng khác đã có thông qua kế thừa
